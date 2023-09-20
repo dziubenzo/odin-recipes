@@ -1,0 +1,25 @@
+strong {
+    color: rgb(217, 106, 106);
+}
+
+li,
+p {
+    font-family: Helvetica;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+h2,
+h3 {
+    background-color: antiquewhite;
+    font-weight: 800;
+}
+
+h1 {
+    background-color: paleturquoise;
+    font-weight: 900;
+}
