@@ -17,9 +17,31 @@ h2,
 h3 {
     background-color: rgb(250, 235, 215);
     font-weight: 800;
+    padding: 4px 8px;
 }
 
 h1 {
-    background-color: rgb(175, 238, 238);
+    background-color: rgb(57, 57, 57);
     font-weight: 900;
+    color: rgb(255, 255, 255);
+    padding: 8px 12px;
+}
+
+.recipes-list {
+    display: inline-block;
+    font-size: large;
+}
+
+.recipe-one,
+.recipe-two,
+.recipe-three {
+    font-weight: 700;
+    padding: 30px 12px;
+    margin-bottom: 8px;
+}
+
+body {
+    background-color: rgb(240, 248, 255);
+    margin: 0 20px;
+    padding: 8px;
 }
